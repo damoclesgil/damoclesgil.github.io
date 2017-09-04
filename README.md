@@ -1,4 +1,4 @@
-# Bookmarks Links
+# Links
 
 ## Front-End Development 
 * [✨ Awesome List](https://github.com/sindresorhus/awesome#front-end-development)
@@ -80,7 +80,12 @@
 
 ### Templates
 * [Theme Forest](https://themeforest.net/)
-* [Nulled 1](http://www.nulled-scripts.xyz/)
-* [Nulled 2](https://www.nulled.to/index.php)
 
-
+### Extensions
+* [Feedly Notifier](https://feedly.com/)
+* [Dracula Dev Tools](https://chrome.google.com/webstore/detail/dracula-devtools-theme/gdhgkfojgddhijhlnnnbopleoabkeife?utm_source=chrome-app-launcher-info-dialog)
+* [What Font](http://www.chengyinliu.com/whatfont.html)
+* [Responsive Web Designer](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg)
+* [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
+* [Momemtum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog)
+* [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-app-launcher-info-dialog)
