@@ -1,0 +1,37 @@
+Quokka.js
+Stylelint
+angular2-switcher
+vscodespotify
+Advanced New FIle
+Angular 4 and Typescript
+Auto iMPORT - Es6
+Auto Rename Tag
+Color Info
+Color High
+vscode-spotify
+Editor Config
+Prettify Json
+Javascript ES6 Snippets
+Markdown all in Online
+View in Browser
+HTML Snippets
+vscode-svgviewer
+Beautify
+ESLint
+TSlint
+Live Server
+Angular 4 and Typescript
+Auto Immport
+Beautify
+JavaScript (ES6) code snippets
+intellisense for css class name
+	
+Temas: 
+Electron Color Theme
+One Dark Pro
+
+Icons:
+vscode
+seti
+
+Theme-TinaciousDesign
