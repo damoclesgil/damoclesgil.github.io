@@ -1,6 +1,6 @@
 # Favorits Links
 
-## Front-End Development 
+## Front-End Development
 
 * [DevDocs](http://devdocs.io/)
 * [Alligator](https://alligator.io/)
@@ -35,6 +35,8 @@
 * [PX TO REM](https://quayzar.com/wordpress/pixels-to-rem-calculator/)
 * [Awesome CSS](https://github.com/sotayamashita/awesome-css)
 * [Minireset](https://github.com/jgthms/minireset.css/blob/master/minireset.css)
+* [Codyhouse](https://codyhouse.co/)
+* [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 
 ## JS
 
@@ -49,7 +51,7 @@
 
 * [Nativefier](https://www.npmjs.com/package/nativefier)
 * [Uglify](https://www.npmjs.com/package/uglify)
-* [Run Sequence ](https://www.npmjs.com/package/run-sequence)
+* [Run Sequence](https://www.npmjs.com/package/run-sequence)
 * [Browserify](https://www.npmjs.com/package/browserify)
 * [Gulp Autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
 
@@ -73,6 +75,7 @@
 ## Vectors & Imagens
 
 * [awesome-free-images](https://github.com/ronal2do/awesome-free-images)
+* [Mockups CSS](https://picturepan2.github.io/devices.css/)
 * [Free Vectors - Freepik](http://br.freepik.com/)
 * [Banco de Imagens - Shutterstock](https://www.shutterstock.com/pt/)
 * [Free Vectors - Vecteezy](https://www.vecteezy.com/)
@@ -113,14 +116,21 @@
 * [Dribble](https://dribbble.com)
 * [Envato](https://elements.envato.com/)
 
-## Optimization & Perfomance
+## Beuftify Code, Format & Ident
+
+* [https://codebeautify.org/](https://codebeautify.org/)
+* [Prettier](prettier.io/playground/)
+
+## Optimization, Minify, Compress & Perfomance
 
 * [HTML, CSS and JS Minify](http://minifycode.com//)
 * [PNG and JPEG compression](https://tinypng.com/)
+* [Compressor.io](https://compressor.io/compress)
 * [Kraken](https://kraken.io/web-interface)
 * [Image Magick](https://www.imagemagick.org/script/index.php)
 * [Lazy Loading](https://css-tricks.com/lozad-js-performant-lazy-loading-images/)
 * [Essential Image Optimzation](https://images.guide/)
+* [Critical CSS](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 
 ## SEO
 
@@ -135,6 +145,7 @@
 * [Depurador de Tags Facebook](https://developers.facebook.com/tools/debug/sharing/)
 * [Cards Validator - Twitter](https://cards-dev.twitter.com/validator)
 * [Sem Rush](https://pt.semrush.com/)
+* [Keyworld Tool](https://keywordtool.io/search/)
 
 ## Templates
 
@@ -143,6 +154,7 @@
 
 ## Extensions
 
+* [Code Copy](https://github.com/zenorocha/codecopy)
 * [Feedly Notifier](https://feedly.com/)
 * [Dracula Dev Tools](https://chrome.google.com/webstore/detail/dracula-devtools-theme/gdhgkfojgddhijhlnnnbopleoabkeife?utm_source=chrome-app-launcher-info-dialog)
 * [What Font](http://www.chengyinliu.com/whatfont.html)
@@ -155,6 +167,11 @@
 * [Muz.li](https://muz.li/?ref=ext)
 * [Panda 5](https://chrome.google.com/webstore/detail/panda-5-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko)
 
+## Marketing
+
+* [Marketing Checklist](https://www.sideprojectchecklist.com/)
+* [Facebook Business](https://www.facebook.com/business/help/1114358518575630)
+
 ## Games
 
 * [Lineage 2](http://www.lineage2.com/en/)
@@ -166,6 +183,12 @@
 
 ## Others
 
+* [My Boilerplate](https://github.com/damoclesgil/boilerplate-website)
+* [My Boilerplate](https://github.com/damoclesgil/workspace-settings)
 * [Organize Favorits](https://raindrop.io)
-* [Boilerplate](https://github.com/adeonir/simple-boilerplate)
 * [Octobox Inbox for GitHub](https://octobox.io/)
+
+### Placeholder E-mails
+
+* [mohmal](https://www.mohmal.com/pt)
+* [yopmail](http://www.yopmail.com/en/)
