@@ -1,4 +1,4 @@
-# Favorits Links
+# Awesome Favorits Links
 
 ## Front-End Development
 
@@ -19,6 +19,10 @@
 * [Una](https://una.im/)
 * [Awesome List](https://github.com/sindresorhus/awesome#front-end-development)
 * [Iam Steve](https://iamsteve.me/)
+* [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [Resources Front End Beginer](https://github.com/thedaviddias/Resources-Front-End-Beginner)
+* [Info Q](https://www.infoq.com/br)
+* [I masters](https://imasters.com.br/)
 
 ## CSS
 
@@ -40,12 +44,13 @@
 
 ## JS
 
-* [Modernt] (https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Modernt](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Eloquente](http://braziljs.github.io/eloquente-javascript/)
 * [Nipher](http://nipher.io/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)
 * [ES6 Features](http://es6-features.org/#Constants)
 * [WTF JS](https://github.com/denysdovhan/wtfjs#-motivation)
+* [STYLE GUIDE AIRBNB](https://github.com/airbnb/javascript)
 
 ## NPM
 
@@ -115,10 +120,11 @@
 * [Collect UI](http://collectui.com/)
 * [Dribble](https://dribbble.com)
 * [Envato](https://elements.envato.com/)
+* [Moodilyapp](https://moodilyapp.com/index.html)
 
 ## Beuftify Code, Format & Ident
 
-* [https://codebeautify.org/](https://codebeautify.org/)
+* [Code Beautify](https://codebeautify.org/)
 * [Prettier](prettier.io/playground/)
 
 ## Optimization, Minify, Compress & Perfomance
@@ -127,14 +133,18 @@
 * [PNG and JPEG compression](https://tinypng.com/)
 * [Compressor.io](https://compressor.io/compress)
 * [Kraken](https://kraken.io/web-interface)
-* [Image Magick](https://www.imagemagick.org/script/index.php)
+* [Image Magick - Redimensionar Imagens](https://www.imagemagick.org/script/index.php)
 * [Lazy Loading](https://css-tricks.com/lozad-js-performant-lazy-loading-images/)
 * [Essential Image Optimzation](https://images.guide/)
 * [Critical CSS](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
+* [JPEG com Transparência](http://quasimondo.com/ZorroSVG/)
+* [Jpeg Mini](http://www.jpegmini.com/)
 
 ## SEO
 
+* [SEO Topper](https://github.com/gustavoquinalha/seotopper)
 * [WebMaster Tools](https://www.google.com/webmasters/tools)
+* [Web Page Test](https://www.webpagetest.org/)
 * [Structured Data](https://developers.google.com/search/docs/guides/sd-policies)
 * [Tendências de Pesquisas](https://trends.google.com.br/trends/)
 * [Moz Bar Extension](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp)
@@ -159,6 +169,7 @@
 * [Dracula Dev Tools](https://chrome.google.com/webstore/detail/dracula-devtools-theme/gdhgkfojgddhijhlnnnbopleoabkeife?utm_source=chrome-app-launcher-info-dialog)
 * [What Font](http://www.chengyinliu.com/whatfont.html)
 * [Responsive Web Designer](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg)
+* [Responsive Viewer](https://chrome.google.com/webstore/detail/ljapjemlolfmfgpaiiajbkgaajhikohl)
 * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
 * [Momemtum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog)
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-app-launcher-info-dialog)
@@ -166,6 +177,8 @@
 * [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 * [Muz.li](https://muz.li/?ref=ext)
 * [Panda 5](https://chrome.google.com/webstore/detail/panda-5-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko)
+* [Stylish](https://userstyles.org/)
+* [Identifay technology on WebSites](https://wappalyzer.com/)
 
 ## Marketing
 
@@ -181,14 +194,25 @@
 * [Trine](http://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/)
 * [Devil May Cry 4](http://store.steampowered.com/app/45700/Devil_May_Cry_4/)
 
-## Others
+## Deploy, UP Websites
 
-* [My Boilerplate](https://github.com/damoclesgil/boilerplate-website)
-* [My Boilerplate](https://github.com/damoclesgil/workspace-settings)
-* [Organize Favorits](https://raindrop.io)
-* [Octobox Inbox for GitHub](https://octobox.io/)
+* [Google Cloud APP Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
+* [Surge](http://surge.sh/)
+* [Zeit](https://zeit.co/now)
 
 ### Placeholder E-mails
 
 * [mohmal](https://www.mohmal.com/pt)
 * [yopmail](http://www.yopmail.com/en/)
+
+### Chatsboot
+
+*[Intercom](https://www.intercom.com/pt-BR/)
+
+## Others
+
+* [My Boilerplate](https://github.com/damoclesgil/boilerplate-website)
+* [My Workspace](https://github.com/damoclesgil/workspace-settings)
+* [Organize Favorits](https://raindrop.io)
+* [Octobox Inbox for GitHub](https://octobox.io/)
+* [Simular Pesquisa no Google](https://lmgtfy.com/)
