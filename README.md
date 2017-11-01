@@ -2,6 +2,7 @@
 
 ## Front-End Development
 
+* [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [DevDocs](http://devdocs.io/)
 * [Alligator](https://alligator.io/)
 * [Rangle](https://rangle.io/)
@@ -44,7 +45,7 @@
 
 ## JS
 
-* [Modernt](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Eloquente](http://braziljs.github.io/eloquente-javascript/)
 * [Nipher](http://nipher.io/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)
@@ -99,6 +100,8 @@
 
 ## Colors
 
+* [Colour Loves](http://www.colourlovers.com)
+* [Color Mind](http://colormind.io/)
 * [Grabient](https://www.grabient.com/)
 * [Coolors](https://coolors.co/)
 * [Hex to RGB](https://www.webpagefx.com/web-design/hex-to-rgb/)
@@ -129,6 +132,7 @@
 
 ## Optimization, Minify, Compress & Perfomance
 
+* [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
 * [HTML, CSS and JS Minify](http://minifycode.com//)
 * [PNG and JPEG compression](https://tinypng.com/)
 * [Compressor.io](https://compressor.io/compress)
@@ -156,6 +160,8 @@
 * [Cards Validator - Twitter](https://cards-dev.twitter.com/validator)
 * [Sem Rush](https://pt.semrush.com/)
 * [Keyworld Tool](https://keywordtool.io/search/)
+* [Generator Sitemaps](https://www.xml-sitemaps.com/)
+* [Dados - Importância da Otimização](https://wpostats.com/)
 
 ## Templates
 
@@ -171,6 +177,7 @@
 * [Responsive Web Designer](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg)
 * [Responsive Viewer](https://chrome.google.com/webstore/detail/ljapjemlolfmfgpaiiajbkgaajhikohl)
 * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
+* [Grid Ruler](chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj/related?hl=en)
 * [Momemtum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog)
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-app-launcher-info-dialog)
 * [Visual Inspector Canvas](https://chrome.google.com/webstore/detail/visual-inspector-by-canva/efaejpgmekdkcngpbghnpcmbpbngoclc)
@@ -185,15 +192,6 @@
 * [Marketing Checklist](https://www.sideprojectchecklist.com/)
 * [Facebook Business](https://www.facebook.com/business/help/1114358518575630)
 
-## Games
-
-* [Lineage 2](http://www.lineage2.com/en/)
-* [Guild Wars 2](guildwars2.com/en/)
-* [Aion](http://na.aiononline.com/en/)
-* [LoL](http://br.leagueoflegends.com/pt/)
-* [Trine](http://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/)
-* [Devil May Cry 4](http://store.steampowered.com/app/45700/Devil_May_Cry_4/)
-
 ## Deploy, UP Websites
 
 * [Google Cloud APP Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
@@ -207,7 +205,7 @@
 
 ### Chatsboot
 
-*[Intercom](https://www.intercom.com/pt-BR/)
+* [Intercom](https://www.intercom.com/pt-BR/)
 
 ## Others
 
@@ -216,3 +214,12 @@
 * [Organize Favorits](https://raindrop.io)
 * [Octobox Inbox for GitHub](https://octobox.io/)
 * [Simular Pesquisa no Google](https://lmgtfy.com/)
+
+## Games
+
+* [Lineage 2](http://www.lineage2.com/en/)
+* [Guild Wars 2](guildwars2.com/en/)
+* [Aion](http://na.aiononline.com/en/)
+* [LoL](http://br.leagueoflegends.com/pt/)
+* [Trine](http://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/)
+* [Devil May Cry 4](http://store.steampowered.com/app/45700/Devil_May_Cry_4/)
