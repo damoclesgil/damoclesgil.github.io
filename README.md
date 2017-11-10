@@ -3,6 +3,7 @@
 ## Front-End Development
 
 * [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [Front End Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 * [DevDocs](http://devdocs.io/)
 * [Alligator](https://alligator.io/)
 * [Rangle](https://rangle.io/)
@@ -20,10 +21,10 @@
 * [Una](https://una.im/)
 * [Awesome List](https://github.com/sindresorhus/awesome#front-end-development)
 * [Iam Steve](https://iamsteve.me/)
-* [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-* [Resources Front End Beginer](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 * [Info Q](https://www.infoq.com/br)
 * [I masters](https://imasters.com.br/)
+* [Coding Heroes](http://codingheroes.io/resources/)
+* [Web Tools Weekly](https://webtoolsweekly.com)
 
 ## CSS
 
@@ -42,16 +43,21 @@
 * [Minireset](https://github.com/jgthms/minireset.css/blob/master/minireset.css)
 * [Codyhouse](https://codyhouse.co/)
 * [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+* [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/)
 
 ## JS
 
+* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 * [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Elo 7](https://engenharia.elo7.com.br/)
 * [Eloquente](http://braziljs.github.io/eloquente-javascript/)
+* [Regex](https://www.debuggex.com/cheatsheet/regex/javascript)
 * [Nipher](http://nipher.io/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)
 * [ES6 Features](http://es6-features.org/#Constants)
 * [WTF JS](https://github.com/denysdovhan/wtfjs#-motivation)
 * [STYLE GUIDE AIRBNB](https://github.com/airbnb/javascript)
+* [Reddi](https://www.reddit.com/r/javascript/)
 
 ## NPM
 
@@ -73,6 +79,7 @@
 
 ## Fonts
 
+* [Font Forge](http://fontforge.github.io/en-US/)
 * [Google Fonts](https://fonts.google.com/)
 * [Fontsquirrel](https://www.fontsquirrel.com/)
 * [@font-face Generator](https://transfonter.org/)
@@ -133,6 +140,8 @@
 ## Optimization, Minify, Compress & Perfomance
 
 * [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
+* [SPDY - Check](https://spdycheck.org/)
+* [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
 * [HTML, CSS and JS Minify](http://minifycode.com//)
 * [PNG and JPEG compression](https://tinypng.com/)
 * [Compressor.io](https://compressor.io/compress)
@@ -143,6 +152,9 @@
 * [Critical CSS](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 * [JPEG com Transparência](http://quasimondo.com/ZorroSVG/)
 * [Jpeg Mini](http://www.jpegmini.com/)
+* [Page Speed - Google](https://developers.google.com/speed/pagespeed/insights/)
+* [Dados - Importância da Otimização](https://wpostats.com/)
+* [Sitespeed.io](https://www.sitespeed.io/)
 
 ## SEO
 
@@ -154,14 +166,12 @@
 * [Moz Bar Extension](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp)
 * [Alexa](https://www.alexa.com/)
 * [Palavras Chaves Relacionadas](https://keywordtool.io/search/google/11732994?keyword=software%20para%20academia&country=br&language=pt-BR#suggestions)
-* [Page Speed - Google](https://developers.google.com/speed/pagespeed/insights/)
 * [Test My Site](https://testmysite.thinkwithgoogle.com/intl/pt-br)
 * [Depurador de Tags Facebook](https://developers.facebook.com/tools/debug/sharing/)
 * [Cards Validator - Twitter](https://cards-dev.twitter.com/validator)
 * [Sem Rush](https://pt.semrush.com/)
 * [Keyworld Tool](https://keywordtool.io/search/)
 * [Generator Sitemaps](https://www.xml-sitemaps.com/)
-* [Dados - Importância da Otimização](https://wpostats.com/)
 
 ## Templates
 
@@ -195,29 +205,67 @@
 ## Deploy, UP Websites
 
 * [Google Cloud APP Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
+* [Configure Cloud App Enine To Deploy](https://cloud.google.com/sdk/docs/managing-configurations)
 * [Surge](http://surge.sh/)
 * [Zeit](https://zeit.co/now)
 
-### Placeholder E-mails
+## CMS
+
+* [Page kit](https://pagekit.com//)
+
+## Open Source Community
+
+* [Code Triage](https://www.codetriage.com/?page=2)
+
+## Libs e Frameworks
+
+* [Micro Modal js](https://micromodal.now.sh/#installation)
+
+## Placeholder E-mails
 
 * [mohmal](https://www.mohmal.com/pt)
 * [yopmail](http://www.yopmail.com/en/)
 
-### Chatsboot
+## Chatsboot
 
 * [Intercom](https://www.intercom.com/pt-BR/)
 
+## Maps
+
+* [Snazzy Maps](https://snazzymaps.com/)
+
+## Boilerplates
+
+* [My Boilerplate - Static Website](https://github.com/damoclesgil/boilerplate-website)
+* [Web Starter Kit](https://github.com/google/web-starter-kit)
+* [Theme Starter - Grid Layout - Static Website](https://github.com/GetPublii/theme-Starter)
+* [Vue Boilerplate](https://github.com/apiqa-io/vue-boilerplate)
+* [WebPack Plugin - Static Site Generator](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
+* [Modular Website Compiler](https://github.com/phenomic/phenomic)
+
+## VScode
+
+* [My Workspace](https://github.com/damoclesgil/workspace-settings)
+
+## Browsers
+
+* [Firefox Quantum](https://www.mozilla.org/en-US/firefox/quantum/)
+
+## Podcasts
+
+* [Dev na Estrada](http://devnaestrada.com.br/)
+* [Hipsters.tech](https://hipsters.tech/category/podcast/)
+
 ## Others
 
-* [My Boilerplate](https://github.com/damoclesgil/boilerplate-website)
-* [My Workspace](https://github.com/damoclesgil/workspace-settings)
 * [Organize Favorits](https://raindrop.io)
-* [Octobox Inbox for GitHub](https://octobox.io/)
+* [Octobox](https://octobox.io/)
 * [Simular Pesquisa no Google](https://lmgtfy.com/)
 
 ## Games
 
 * [Lineage 2](http://www.lineage2.com/en/)
+* [Project TL](http://mmovicio.com.br/project-tl-e-o-novo-mmo-da-ncsoft/)
 * [Guild Wars 2](guildwars2.com/en/)
 * [Aion](http://na.aiononline.com/en/)
 * [LoL](http://br.leagueoflegends.com/pt/)
