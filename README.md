@@ -1,273 +1,66 @@
-# Awesome Favorits Links
+# Dâmocles Gil Marçal
 
-## Front-End Development
+**Localização:** Goiânia do Centro-Oeste/GO - Brasil
 
-* [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-* [Front End Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner)
-* [DevDocs](http://devdocs.io/)
-* [Alligator](https://alligator.io/)
-* [Rangle](https://rangle.io/)
-* [Scotch](https://scotch.io/)
-* [HTML Lion](https://www.htmllion.com/index.html)
-* [Wes Bos](http://wesbos.com/)
-* [Free Front End](http://freefrontend.com/)
-* [Todd Motto - Angular](https://toddmotto.com/)
-* [Smashi Magazine](https://www.smashingmagazine.com/)
-* [Learn ShayHow - HTML & CSS](http://learn.shayhowe.com//)
-* [DevHeroes](https://devheroes.io/)
-* [Willian Justen](https://willianjusten.com.br/)
-* [David Wlash](https://davidwalsh.name/)
-* [Cook for Web](http://www.cookforweb.com/web-design/)
-* [Una](https://una.im/)
-* [Awesome List](https://github.com/sindresorhus/awesome#front-end-development)
-* [Iam Steve](https://iamsteve.me/)
-* [Info Q](https://www.infoq.com/br)
-* [I masters](https://imasters.com.br/)
-* [Coding Heroes](http://codingheroes.io/resources/)
-* [Web Tools Weekly](https://webtoolsweekly.com)
+**Telefone:** (62) 98116-5159
 
-## CSS
+**E-mail:** damoclesgil@gmail.com
 
-* [CSS Refrence.io](http://cssreference.io/)
-* [CSS Tricks](https://css-tricks.com/)
-* [Drafts CSSWG](https://github.com/w3c/csswg-drafts)
-* [Codrops](https://tympanus.net/codrops/css_reference/)
-* [MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
-* [FlexBox](https://github.com/afonsopacifer/awesome-flexbox)
-* [CSS3 Maker](http://www.css3maker.com)
-* [Grid Layout](https://github.com/simoneas02/awesome-grid-layout)
-* [Grid By Example](https://gridbyexample.com/)
-* [Wait Animate](http://waitanimate.wstone.io/#!/)
-* [PX TO REM](https://quayzar.com/wordpress/pixels-to-rem-calculator/)
-* [Awesome CSS](https://github.com/sotayamashita/awesome-css)
-* [Minireset](https://github.com/jgthms/minireset.css/blob/master/minireset.css)
-* [Codyhouse](https://codyhouse.co/)
-* [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
-* [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/)
+**Telegram:** damoclesgil
 
-## JS
+**Skype:** damoclesgil
 
-* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
-* [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-* [Elo 7](https://engenharia.elo7.com.br/)
-* [Eloquente](http://braziljs.github.io/eloquente-javascript/)
-* [Regex](https://www.debuggex.com/cheatsheet/regex/javascript)
-* [Nipher](http://nipher.io/)
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)
-* [ES6 Features](http://es6-features.org/#Constants)
-* [WTF JS](https://github.com/denysdovhan/wtfjs#-motivation)
-* [STYLE GUIDE AIRBNB](https://github.com/airbnb/javascript)
-* [Reddi](https://www.reddit.com/r/javascript/)
+**Github:** damoclesgil
 
-## NPM
+## Sobre mim
 
-* [Nativefier](https://www.npmjs.com/package/nativefier)
-* [Uglify](https://www.npmjs.com/package/uglify)
-* [Run Sequence](https://www.npmjs.com/package/run-sequence)
-* [Browserify](https://www.npmjs.com/package/browserify)
-* [Gulp Autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
+Trabalhei com  desenvolviemto web, passando por estágios e empresas de ti. Realize um curso de web design em um escola técnica. Aprender programação, HTML e CSS foi uma evolução natural. Hoje sou web designer e desenvolvedor frontend. Gosto de trabalhar em equipe e de conhecer novas tecnologias. Como programador, estou sempre em busca de melhores práticas e novos desafios.
 
-## Icons
+Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo com os amigos, jogando e assistindo seriados.
 
-* [Icons 8](https://icons8.com/icon/new-icons/all)
-* [Flat Icon](https://www.flaticon.com/)
-* [Icomoon - Icon To Font Converter](https://icomoon.io/)
-* [Iconic Font](https://iconmonstr.com/iconicfont/)
-* [Material Icons](https://materialdesignicons.com/)
-* [Ico Converter](https://www.icoconverter.com/)
-* [Favicon Geneartor](https://realfavicongenerator.net/)
+## Habilidades
 
-## Fonts
+- Design (Adobe Illustrator, Adobe Experience Design)
+- HTML
+- CSS (Sass)
+- CSS Frameworks (Bootstrap, Bulma, Materialize)
+- SVG (Animações)
+- Automatizadores (Gulp, Webpack)
+- JavaScript
+- Git
+- MySQL
+- SEO
+- Analyitcs e Adwords
+- Performance Web (Critical Path, HTTP2, SPDY, SSL)
+- SCRUM
 
-* [Font Forge](http://fontforge.github.io/en-US/)
-* [Google Fonts](https://fonts.google.com/)
-* [Fontsquirrel](https://www.fontsquirrel.com/)
-* [@font-face Generator](https://transfonter.org/)
-* [Online Font Converter](https://onlinefontconverter.com/)
+## Experiência
 
-## Vectors & Imagens
+**Web Designer** - Freelancer / Janeiro 2017 - Presente
 
-* [awesome-free-images](https://github.com/ronal2do/awesome-free-images)
-* [Mockups CSS](https://picturepan2.github.io/devices.css/)
-* [Free Vectors - Freepik](http://br.freepik.com/)
-* [Banco de Imagens - Shutterstock](https://www.shutterstock.com/pt/)
-* [Free Vectors - Vecteezy](https://www.vecteezy.com/)
-* [Unsplash](https://unsplash.com/collections)
-* [Windows 10 - Themes](http://www.themeraider.com/)
-* [Fast Stone](http://www.faststone.org/FSViewerDownload.htm)
-* [Windows Explorer Preview PSD](http://www.luisaambros.com/blog/previa-em-miniatura-de-arquivos-psd-ai-pdf-eps-no-windows-explorer/)
+> Desenvolvimento de sites utilizando HTML, CSS e JS para o frontend e PHP e MySQL para o backend.
 
-## SVG
+**Web Designer, Desenvolvedor Front-End e Suporte TI** - Actuar - Software para Academia / Dezembro 2012 - Presente
 
-* [Optimize SVG - SVGOMG](https://jakearchibald.github.io/svgomg/)
-* [SVGCuts](https://www.svgcuts.com/)
-* [Slide by Sarah Drasner : svg-can-do-that](http://slides.com/sdrasner/svg-can-do-that#/)
-* [Guide SVG - CSS-Tricks](https://css-tricks.com/guide-svg-animations-smil/)
-* [SVG View Windows Explorer](https://svgextension.codeplex.com/releases/view/118790)
+> Eu atuei em várias frentes, desde elaboração de e-mail marketing, configurações do google adwords, criação e manutenção dos sites e das aplicações web ou mobile, realizava o atendimento ao cliente nas redes sociais e também auxíliava no suporte de TI.
 
-## Colors
+**Estágio de Desenvolvimento** - Crosoften(Soluções Ágeis, Qualidade Extrema) / Novembro 2016 - Dezembro 2016
 
-* [Colour Loves](http://www.colourlovers.com)
-* [Color Mind](http://colormind.io/)
-* [Grabient](https://www.grabient.com/)
-* [Coolors](https://coolors.co/)
-* [Hex to RGB](https://www.webpagefx.com/web-design/hex-to-rgb/)
-* [Hex to RGB Conversion](http://www.rapidtables.com/convert/color/hex-to-rgb.htm)
-* [Tabela de Cores](http://erikasarti.net/html/tabela-cores/)
-* [ColorSpace](https://mycolor.space/)
+> Acompanhei no desenvolvimento da aplicação web (Na parte front-end e back-end).
+> Participei e Colaborarei em reuniões com a equipe.
 
-## Design
+**Implantação/Treinamento** - SAGE (Multinacional de Softwares ERP) / Maio 2016 - Agosto 2016
 
-* [Resources Sites](https://css-tricks.com/design-resource-sites/)
-* [UXPin](https://www.uxpin.com/studio/ebooks/)
-* [Design Modo](https://designmodo.com/)
-* [Design Insipiration](https://www.designspiration.net/)
-* [UP Labs](https://www.uplabs.com/)
-* [CSS Winner](http://www.csswinner.com/blog)
-* [Awwards](https://www.awwwards.com)
-* [Invision app](https://www.invisionapp.com/)
-* [Designer Mão de Vaca](https://designermaodevaca.com/)
-* [Collect UI](http://collectui.com/)
-* [Dribble](https://dribbble.com)
-* [Envato](https://elements.envato.com/)
-* [Moodilyapp](https://moodilyapp.com/index.html)
+> Realizar o treinamento e capacitação de usuários para utilização do software.
+> Responsável por fazer a instalação, manutenção e configuração dos softwares nas máquinas dos usuários.
 
-## Beuftify Code, Format & Ident
+## Formação
 
-* [Code Beautify](https://codebeautify.org/)
-* [Prettier](prettier.io/playground/)
+**Web Designer - MCTech** / Setembro 2014 - Junho 2016
 
-## Optimization, Minify, Compress & Perfomance
+**Gestão da Tecnologia da Informação - Faculdade de Tecnologia SENAC Goiás** / Janeiro 2015 - Dezembro 2017
 
-* [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
-* [SPDY - Check](https://spdycheck.org/)
-* [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
-* [HTML, CSS and JS Minify](http://minifycode.com//)
-* [PNG and JPEG compression](https://tinypng.com/)
-* [Compressor.io](https://compressor.io/compress)
-* [Kraken](https://kraken.io/web-interface)
-* [Image Magick - Redimensionar Imagens](https://www.imagemagick.org/script/index.php)
-* [Lazy Loading](https://css-tricks.com/lozad-js-performant-lazy-loading-images/)
-* [Essential Image Optimzation](https://images.guide/)
-* [Critical CSS](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
-* [JPEG com Transparência](http://quasimondo.com/ZorroSVG/)
-* [Jpeg Mini](http://www.jpegmini.com/)
-* [Page Speed - Google](https://developers.google.com/speed/pagespeed/insights/)
-* [Dados - Importância da Otimização](https://wpostats.com/)
-* [Sitespeed.io](https://www.sitespeed.io/)
+## Extras
 
-## SEO
-
-* [SEO Topper](https://github.com/gustavoquinalha/seotopper)
-* [WebMaster Tools](https://www.google.com/webmasters/tools)
-* [Web Page Test](https://www.webpagetest.org/)
-* [Structured Data](https://developers.google.com/search/docs/guides/sd-policies)
-* [Tendências de Pesquisas](https://trends.google.com.br/trends/)
-* [Moz Bar Extension](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp)
-* [Alexa](https://www.alexa.com/)
-* [Palavras Chaves Relacionadas](https://keywordtool.io/search/google/11732994?keyword=software%20para%20academia&country=br&language=pt-BR#suggestions)
-* [Test My Site](https://testmysite.thinkwithgoogle.com/intl/pt-br)
-* [Depurador de Tags Facebook](https://developers.facebook.com/tools/debug/sharing/)
-* [Cards Validator - Twitter](https://cards-dev.twitter.com/validator)
-* [Sem Rush](https://pt.semrush.com/)
-* [Keyworld Tool](https://keywordtool.io/search/)
-* [Generator Sitemaps](https://www.xml-sitemaps.com/)
-
-## Templates
-
-* [Theme Forest](https://themeforest.net/)
-* [Template Monster](https://www.templatemonster.com/pt-br/)
-
-## Extensions
-
-* [Code Copy](https://github.com/zenorocha/codecopy)
-* [Feedly Notifier](https://feedly.com/)
-* [Dracula Dev Tools](https://chrome.google.com/webstore/detail/dracula-devtools-theme/gdhgkfojgddhijhlnnnbopleoabkeife?utm_source=chrome-app-launcher-info-dialog)
-* [What Font](http://www.chengyinliu.com/whatfont.html)
-* [Responsive Web Designer](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg)
-* [Responsive Viewer](https://chrome.google.com/webstore/detail/ljapjemlolfmfgpaiiajbkgaajhikohl)
-* [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
-* [Grid Ruler](chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj/related?hl=en)
-* [Momemtum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog)
-* [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-app-launcher-info-dialog)
-* [Visual Inspector Canvas](https://chrome.google.com/webstore/detail/visual-inspector-by-canva/efaejpgmekdkcngpbghnpcmbpbngoclc)
-* [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
-* [Muz.li](https://muz.li/?ref=ext)
-* [Panda 5](https://chrome.google.com/webstore/detail/panda-5-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko)
-* [Stylish](https://userstyles.org/)
-* [Identifay technology on WebSites](https://wappalyzer.com/)
-
-## Marketing
-
-* [Marketing Checklist](https://www.sideprojectchecklist.com/)
-* [Facebook Business](https://www.facebook.com/business/help/1114358518575630)
-
-## Deploy, UP Websites
-
-* [Google Cloud APP Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
-* [Configure Cloud App Enine To Deploy](https://cloud.google.com/sdk/docs/managing-configurations)
-* [Surge](http://surge.sh/)
-* [Zeit](https://zeit.co/now)
-
-## CMS
-
-* [Page kit](https://pagekit.com//)
-
-## Open Source Community
-
-* [Code Triage](https://www.codetriage.com/?page=2)
-
-## Libs e Frameworks
-
-* [Micro Modal js](https://micromodal.now.sh/#installation)
-
-## Placeholder E-mails
-
-* [mohmal](https://www.mohmal.com/pt)
-* [yopmail](http://www.yopmail.com/en/)
-
-## Chatsboot
-
-* [Intercom](https://www.intercom.com/pt-BR/)
-
-## Maps
-
-* [Snazzy Maps](https://snazzymaps.com/)
-
-## Boilerplates
-
-* [My Boilerplate - Static Website](https://github.com/damoclesgil/boilerplate-website)
-* [Web Starter Kit](https://github.com/google/web-starter-kit)
-* [Theme Starter - Grid Layout - Static Website](https://github.com/GetPublii/theme-Starter)
-* [Vue Boilerplate](https://github.com/apiqa-io/vue-boilerplate)
-* [WebPack Plugin - Static Site Generator](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
-* [Modular Website Compiler](https://github.com/phenomic/phenomic)
-
-## VScode
-
-* [My Workspace](https://github.com/damoclesgil/workspace-settings)
-
-## Browsers
-
-* [Firefox Quantum](https://www.mozilla.org/en-US/firefox/quantum/)
-
-## Podcasts
-
-* [Dev na Estrada](http://devnaestrada.com.br/)
-* [Hipsters.tech](https://hipsters.tech/category/podcast/)
-
-## Others
-
-* [Organize Favorits](https://raindrop.io)
-* [Octobox](https://octobox.io/)
-* [Simular Pesquisa no Google](https://lmgtfy.com/)
-
-## Games
-
-* [Lineage 2](http://www.lineage2.com/en/)
-* [Project TL](http://mmovicio.com.br/project-tl-e-o-novo-mmo-da-ncsoft/)
-* [Guild Wars 2](guildwars2.com/en/)
-* [Aion](http://na.aiononline.com/en/)
-* [LoL](http://br.leagueoflegends.com/pt/)
-* [Trine](http://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/)
-* [Devil May Cry 4](http://store.steampowered.com/app/45700/Devil_May_Cry_4/)
+*[Curriculo - Versão PDF](https://github.com/damoclesgil/damoclesgil.github.io/blob/master/assets/files/CV_D%C3%A2mocles.pdf)
+*[My Favorits Links](https://github.com/damoclesgil/favorites-links)
