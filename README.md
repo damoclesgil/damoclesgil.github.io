@@ -40,7 +40,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 > Desenvolvimento de sites utilizando HTML, CSS e JS para o frontend e PHP e MySQL para o backend.
 
-**Web Designer, Desenvolvedor Front-End e Suporte TI** - Actuar - Software para Academia / Dezembro 2012 - Presente
+**Web Designer, Desenvolvedor Front-End e Suporte TI** - Actuar - Software para Academia / Janeiro 2017 - Outubro 2017
 
 > Eu atuei em várias frentes, desde elaboração de e-mail marketing, configurações do google adwords, criação e manutenção dos sites e das aplicações web ou mobile, realizava o atendimento ao cliente nas redes sociais e também auxíliava no suporte de TI.
 
@@ -62,5 +62,5 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Extras
 
-*[Curriculo - Versão PDF](https://github.com/damoclesgil/damoclesgil.github.io/blob/master/assets/files/CV_D%C3%A2mocles.pdf)
-*[My Favorits Links](https://github.com/damoclesgil/favorites-links)
+* [Curriculo - Versão PDF](https://damoclesgil.github.io/assets/files/CV_D%C3%A2mocles.pdf)
+* [My Favorits Links](https://github.com/damoclesgil/favorites-links)
