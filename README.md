@@ -6,15 +6,13 @@
 
 **E-mail:** damoclesgil@gmail.com
 
-**Telegram:** damoclesgil
-
 **Skype:** damoclesgil
 
 **Github:** damoclesgil
 
 ## Sobre mim
 
-Trabalhei com  desenvolviemto web, passando por estágios e empresas de ti. Realize um curso de web design em um escola técnica. Aprender programação, HTML e CSS foi uma evolução natural. Hoje sou web designer e desenvolvedor frontend. Gosto de trabalhar em equipe e de conhecer novas tecnologias. Como programador, estou sempre em busca de melhores práticas e novos desafios.
+Trabalhei com  desenvolviemto web, passando por estágios e empresas de ti. Realizei um curso de web design em um escola técnica. Aprender programação, HTML e CSS foi uma evolução natural. Hoje sou web designer e desenvolvedor frontend. Gosto de trabalhar em equipe e de conhecer novas tecnologias. Como programador, estou sempre em busca de melhores práticas e novos desafios.
 
 Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo com os amigos, jogando e assistindo seriados.
 
@@ -36,7 +34,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Experiência
 
-**Web Designer** - Freelancer / Janeiro 2017 - Presente
+**Web Designer** - Freelancer / Agosto 2017 - Presente
 
 > Desenvolvimento de sites utilizando HTML, CSS e JS para o frontend e PHP e MySQL para o backend.
 
@@ -46,12 +44,14 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 **Estágio de Desenvolvimento** - Crosoften(Soluções Ágeis, Qualidade Extrema) / Novembro 2016 - Dezembro 2016
 
-> Acompanhei no desenvolvimento da aplicação web (Na parte front-end e back-end).
-> Participei e Colaborarei em reuniões com a equipe.
+> Atuação no desenvolvimento da aplicação web (Na parte front-end e back-end).
+
+> Participação em reuniões com a equipe.
 
 **Implantação/Treinamento** - SAGE (Multinacional de Softwares ERP) / Maio 2016 - Agosto 2016
 
 > Realizar o treinamento e capacitação de usuários para utilização do software.
+
 > Responsável por fazer a instalação, manutenção e configuração dos softwares nas máquinas dos usuários.
 
 ## Formação
