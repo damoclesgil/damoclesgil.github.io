@@ -1,0 +1,161 @@
+@charset "UTF-8";
+
+/*-------------------------------------------------------------------------------
+ Reset
+-------------------------------------------------------------------------------*/
+html{box-sizing: border-box; font-size: 16px;}
+*, *:before, *:after {box-sizing: inherit; margin: 0; padding: 0;}
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {margin: 0;padding: 0;font-weight: normal; }
+ol, ul {list-style: none;}
+img {max-width: 100%;height: auto;}
+a{text-decoration: none;}
+
+/*-------------------------------------------------------------------------------
+ Typography
+-------------------------------------------------------------------------------*/
+@font-face {
+  font-family: "Gotham Light";
+  src: url("../fonts/Gotham Rounded Light.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Gotham Bold";
+  src: url("../fonts/Gotham Rounded Bold.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*-------------------------------------------------------------------------------
+ Base
+-------------------------------------------------------------------------------*/
+body {
+  font-family: "Gotham Light";
+  background-color: #6c45c4;
+  background: -webkit-linear-gradient(315deg,#6c45c4 0,#6c45c4 30%, #b875ff 100%) fixed;
+  background: linear-gradient(135deg, #6c45c4 0, #6c45c4 30%, #b875ff 100%) fixed;
+}
+.mr-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+@media (min-width: 768px) {
+  h1 {
+    font-family: "Gotham Bold";
+    font-size: 1.35rem;
+  }
+  h2 {
+    font-family: "Gotham Light";
+    font-size: 1.2rem;
+  }
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.flex-center {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.txt-center {
+  text-align: center;
+}
+.my-link {
+  text-decoration: none;
+  color: #ae8ad3;
+  transition: 0.5s ease-out;
+}
+.my-link:hover {
+  color: #4c1cb8;
+}
+h3{
+    font-size: 1.45rem;
+}
+/* -------------------------------------------------------------------------------
+ Page
+------------------------------------------------------------------------------- */
+.counteudo-perfil {
+  margin: 0;
+  padding: 20px;
+  width: 550px;
+  max-width: calc(100vw - 10px);
+  background-color: #fff;
+  border-radius: 4px;
+}
+@media (max-width: 768px) {
+  .counteudo-perfil {
+    margin-top: 210px;
+  }
+}
+.damocles-avatar {
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  background-image: url(../images/me.jpg);
+  background-size: cover;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  box-shadow: inset 0 0 10px 0 rgba(0, 0, 0, 0.2), 0 0 2px 0 rgba(0, 0, 0, 0.1);
+  position: relative;
+  bottom: 90px;
+  margin-bottom: -80px;
+}
+.biografia {
+  font-size: 16px;
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  word-wrap: break-word;
+}
+.biografia li {
+  line-height: 25px;
+  list-style: none;
+}
+.bigorafia h3 {
+  text-align: center;
+}
+/* .biografia li:before {
+  content: "• ";
+  color: #ae8ad3;
+  font-size: 19px;
+} */
+.biografia p {
+  text-align: justify;
+  margin-bottom: 0.75em;
+}
+.social-links {
+  margin-top: 25px;
+}
+.social-links ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.social-links ul li .social-link {
+  padding: 0;
+  margin: 10px;
+  width: 36px;
+  height: 36px;
+  font-size: 30px;
+  line-height: 36px;
+  cursor: pointer;
+  display: block;
+}
+.social-links ul .svgzito {
+  fill: rgba(154, 63, 239, 0.7);
+  height: 100%;
+  width: 100%;
+  transition: background-color 0.15s ease-out, color 0.15s ease-out,
+    border-color 0.15s ease-out, fill 0.15s ease-out, box-shadow 0.15s ease-out;
+}
+.social-links ul .svgzito:hover {
+  fill: #9a3fef;
+  border-color: #9a3fef;
+}
