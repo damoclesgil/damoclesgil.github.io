@@ -12,15 +12,15 @@
 
 ## Sobre mim
 
-Trabalhei com  desenvolviemto web, passando por estágios e empresas de ti. Realizei um curso de web design em um escola técnica. Aprender programação, HTML e CSS foi uma evolução natural. Hoje sou web designer e desenvolvedor frontend. Gosto de trabalhar em equipe e de conhecer novas tecnologias. Como programador, estou sempre em busca de melhores práticas e novos desafios.
+Trabalhei com  desenvolviemto web, passando por estágios e empresas de ti. Realizei um curso de web design em um escola técnica e uma graduação em Gestão de Tecnologia da Informação na Faculdade de Tecnologia SENAC - Goiás. Aprender programação, HTML e CSS foi uma evolução natural. Hoje sou web designer e desenvolvedor frontend. Gosto de trabalhar em equipe e de conhecer novas tecnologias. Como programador, estou sempre em busca de melhores práticas e novos desafios.
 
 Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo com os amigos, jogando e assistindo seriados.
 
 ## Habilidades
 
-- Design (Adobe Illustrator, Adobe Experience Design)
-- HTML
-- CSS (Sass)
+- Design (Adobe Illustrator, Adobe Photoshop e Adobe Experience Design)
+- HTML5
+- CSS3 (Sass)
 - CSS Frameworks (Bootstrap, Bulma, Materialize)
 - SVG (Animações)
 - Automatizadores (Gulp, Webpack)
@@ -34,21 +34,25 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Experiência
 
+**Desenvolvedor Front-End** - Freelancer / Agosto 2017 - [Conexão - Soluções Corporativas](http://conexaoproweb.com.br/site/)
+
+> Desenvolvimento de sites utilizando as tecnologias: CodeIgniter, HTML5, CSS3 e JS.
+
 **Web Designer** - Freelancer / Agosto 2017 - Presente
 
 > Desenvolvimento de sites utilizando HTML, CSS e JS para o frontend e PHP e MySQL para o backend.
 
-**Web Designer, Desenvolvedor Front-End e Suporte TI** - Actuar - Software para Academia / Janeiro 2017 - Outubro 2017
+**Web Designer, Desenvolvedor Front-End e Suporte TI** - [Actuar - Software para Academia](https://actuar.com) / Janeiro 2017 - Outubro 2017
 
-> Eu atuei em várias frentes, desde elaboração de e-mail marketing, configurações do google adwords, criação e manutenção dos sites e das aplicações web ou mobile, realizava o atendimento ao cliente nas redes sociais e também auxíliava no suporte de TI.
+> Eu atuei em várias frentes, desde elaboração de e-mail marketing, configurações do google adwords, criação e manutenção dos sites e das aplicações web e realizava o atendimento ao cliente nas redes sociais.
 
-**Estágio de Desenvolvimento** - Crosoften(Soluções Ágeis, Qualidade Extrema) / Novembro 2016 - Dezembro 2016
+**Estágio de Desenvolvedor Front-End** - [Crosoften(Soluções Ágeis, Qualidade Extrema)](https://crosoften.com/) / Julho 2016 - Dezembro 2016
 
-> Atuação no desenvolvimento da aplicação web (Na parte front-end e back-end).
+> Auxiliava no Densenvolvimento Front-End das aplicações.
 
-> Participação em reuniões com a equipe.
+> Participação em reuniões com a equipe e na coleta de requisitos.
 
-**Implantação/Treinamento** - SAGE (Multinacional de Softwares ERP) / Maio 2016 - Agosto 2016
+**Estágio de Implantação/Treinamento** - [SAGE (Multinacional de Softwares ERP)](http://www.sage.com/) / Maio 2016 - Agosto 2016
 
 > Realizar o treinamento e capacitação de usuários para utilização do software.
 
@@ -62,5 +66,4 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Extras
 
-* [Curriculo - Versão PDF](https://damoclesgil.github.io/assets/files/CV_D%C3%A2mocles.pdf)
 * [My Favorits Links](https://github.com/damoclesgil/favorites-links)
