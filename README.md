@@ -18,7 +18,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Habilidades
 
-- Design (Adobe Illustrator, Adobe Photoshop e Adobe Experience Design)
+- Design (Adobe Illustrator, Adobe Photoshop, Adobe Experience Design e CorelDRAW)
 - HTML5
 - CSS3 (Sass)
 - CSS Frameworks (Bootstrap, Bulma, Materialize)
@@ -40,6 +40,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 **Web Designer** - Freelancer / Agosto 2017 - Presente
 
+> Desenvolvimento de layouts do sites utilizando ferramentas: Adobe Photoshop e Adobe Illustrator.
 > Desenvolvimento de sites utilizando HTML, CSS e JS para o frontend e PHP e MySQL para o backend.
 
 **Web Designer, Desenvolvedor Front-End e Suporte TI** - [Actuar - Software para Academia](https://actuar.com) / Janeiro 2017 - Outubro 2017
@@ -64,6 +65,18 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 **Gestão da Tecnologia da Informação - Faculdade de Tecnologia SENAC Goiás** / Janeiro 2015 - Dezembro 2017
 
-## Extras
-
-* [My Favorits Links](https://github.com/damoclesgil/favorites-links)
+## Meus Projetos
+- [Website do Trei.no](http://trei.no/)
+- [Website da Conexão](http://conexaoproweb.com.br/site/)
+- [Website do AFIG](https://afig.actuar.com/)
+- [Website da APCAM](http://conexaoproweb.com.br/apcam/)
+- [Website da Clínica Supere](http://supereador.com.br/Home)
+- [Website da Manneken](http://mannekentravel.com/)
+- [Website da Lontour - Viagens & Turismo](http://www.lontourviagens.com.br/)
+- [Landing Page da Mannekenk](http://mannekentravel.com.br/)
+- [Landing Page do Conexmail](http://conexmail.com.br/)
+- [Landing Page do Certillion ID](https://certillionid.com/)
+- [Aplicativo do Colégio Militar](https://play.google.com/store/apps/details?id=io.fpm)
+- [Animação de um Fogete com SVG](https://codepen.io/damoclesgil/full/eGWrdq/)
+- [Animação com SVG Fogete andando em uma linha](https://codepen.io/damoclesgil/full/Nadazg/)
+- [Meus Links Favoritos](https://github.com/damoclesgil/favorites-links)
