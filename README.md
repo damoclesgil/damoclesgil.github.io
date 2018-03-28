@@ -34,9 +34,9 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Experiência
 
-**Desenvolvedor Front-End** - Freelancer / Agosto 2017 - [Conexão - Soluções Corporativas](http://conexaoproweb.com.br/site/)
+**Desenvolvedor Front-End** - Janeiro 2018 - Presente [Conexão - Soluções Corporativas](http://conexaoproweb.com.br/site/)
 
-> Desenvolvimento de sites utilizando as tecnologias: CodeIgniter, HTML5, CSS3 e JS.
+> Desenvolvimento de sites utilizando as tecnologias: CodeIgniter, HTML5, CSS3, JS e JQuery.
 
 **Web Designer** - Freelancer / Agosto 2017 - Presente
 
