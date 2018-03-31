@@ -12,9 +12,9 @@
 
 ## Sobre mim
 
-Trabalhei com  desenvolviemto web, passando por estágios e empresas de ti. Realizei um curso de web design em um escola técnica e uma graduação em Gestão de Tecnologia da Informação na Faculdade de Tecnologia SENAC - Goiás. Aprender programação, HTML e CSS foi uma evolução natural. Hoje sou web designer e desenvolvedor frontend. Gosto de trabalhar em equipe e de conhecer novas tecnologias. Como programador, estou sempre em busca de melhores práticas e novos desafios.
+Trabalhei com  desenvolvimento web, passando por estágios e empresas de TI. Realizei um curso de web design em um escola técnica e uma graduação em Gestão de Tecnologia da Informação na Faculdade de Tecnologia SENAC - Goiás. Aprender programação, HTML e CSS foi uma evolução natural. Hoje sou web designer e desenvolvedor Front-End. Gosto de trabalhar em equipe e de conhecer novas tecnologias. Como programador, estou sempre em busca de melhores práticas e novos desafios.
 
-Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo com os amigos, jogando e assistindo seriados.
+Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo com os amigos, minha namorada, jogando e assistindo seriados.
 
 ## Habilidades
 
@@ -61,9 +61,9 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Formação
 
-**Web Designer - MCTech** / Setembro 2014 - Junho 2016
+**Web Designer - [MCTech](http://mctechgoiania.com.br/)** - / Setembro 2014 - Junho 2016
 
-**Gestão da Tecnologia da Informação - Faculdade de Tecnologia SENAC Goiás** / Janeiro 2015 - Dezembro 2017
+**Gestão da Tecnologia da Informação - [Faculdade de Tecnologia SENAC Goiás](https://www.go.senac.br/portal/)** - / Janeiro 2015 - Dezembro 2017
 
 ## Meus Projetos
 - [Website do Trei.no](http://trei.no/)
