@@ -14,7 +14,7 @@
 
 Trabalhei com  desenvolvimento web, passando por estágios e empresas de TI. Realizei um curso de web design em um escola técnica e uma graduação em Gestão de Tecnologia da Informação na Faculdade de Tecnologia SENAC - Goiás. Aprender programação, HTML e CSS foi uma evolução natural. Hoje sou web designer e desenvolvedor Front-End. Gosto de trabalhar em equipe e de conhecer novas tecnologias. Como programador, estou sempre em busca de melhores práticas e novos desafios.
 
-Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo com os amigos, minha namorada, jogando e assistindo seriados.
+Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo com os amigos, jogando e assistindo seriados.
 
 ## Habilidades
 
