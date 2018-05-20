@@ -20,6 +20,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 - Design (Adobe Illustrator, Adobe Photoshop, Adobe Experience Design e CorelDRAW)
 - HTML5
+- PHP
 - CSS3 (Sass)
 - CSS Frameworks (Bootstrap, Bulma, Materialize)
 - SVG (Animações)
@@ -34,7 +35,11 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Experiência
 
-**Desenvolvedor Front-End** - Janeiro 2018 - Presente [Conexão - Soluções Corporativas](http://conexaoproweb.com.br/site/)
+**Desenvolvedor Front-End** - Abril 2018 - Presente [Daxplace - Development](https://daxplace.com/)
+
+> Desenvolvimento de Aplicações utilizando: Laravel, VUEJS.
+
+**Desenvolvedor Front-End** - Janeiro 2018 - Abril 2018 [Conexão - Soluções Corporativas](http://conexaoproweb.com.br/site/)
 
 > Desenvolvimento de sites utilizando as tecnologias: CodeIgniter, HTML5, CSS3, JS e JQuery.
 
@@ -66,6 +71,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 **Gestão da Tecnologia da Informação - [Faculdade de Tecnologia SENAC Goiás](https://www.go.senac.br/portal/)** - / Janeiro 2015 - Dezembro 2017
 
 ## Meus Projetos
+
 - [Website do Trei.no](http://trei.no/)
 - [Website da Conexão](http://conexaoproweb.com.br/site/)
 - [Website do AFIG](https://afig.actuar.com/)
