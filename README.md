@@ -37,7 +37,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 **Desenvolvedor Front-End** - Abril 2018 - Presente [Daxplace - Development](https://daxplace.com/)
 
-> Desenvolvimento de Aplicações utilizando: Laravel, VUEJS.
+> Desenvolvimento de Aplicações utilizando: Laravel, VUEJS e Wordpress.
 
 **Desenvolvedor Front-End** - Janeiro 2018 - Abril 2018 [Conexão - Soluções Corporativas](http://conexaoproweb.com.br/site/)
 
@@ -70,12 +70,16 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 **Gestão da Tecnologia da Informação - [Faculdade de Tecnologia SENAC Goiás](https://www.go.senac.br/portal/)** - / Janeiro 2015 - Dezembro 2017
 
-## Meus Projetos
+## Projetos
 
+- [Premyu](https://premyu.com/) 
 - [Realtrade Club](http://realtradeclub.com/dev)
-- [Davilan Capital](http://davilan.capital/dev/)
+- [Plaico](https://plaico.com/)
+- [Danwealth](https://danwealth.com/dev/)
+- [InfoTech Goianesia](https://infotechgoianesia.com.br)
 - [CromaWeb](https://cromaweb.com.br/)
 - [Grupo Gprac](https://grupogprac.com.br/)
+- [Actuar](https://actuar.com)
 - [Trei.no](http://trei.no/)
 - [Conexão](http://conexaoproweb.com.br/site/)
 - [AFIG](https://afig.actuar.com/)
