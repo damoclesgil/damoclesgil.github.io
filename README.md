@@ -26,10 +26,12 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 - SVG (Animações)
 - Automatizadores (Gulp, Webpack)
 - JavaScript
+- VueJS
 - Git
 - MySQL
 - SEO
 - Analyitcs e Adwords
+- Wordpress
 - Performance Web (Critical Path, HTTP2, SPDY, SSL)
 - SCRUM
 
