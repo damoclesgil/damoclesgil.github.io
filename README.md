@@ -83,7 +83,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 - [Grupo Gprac](https://grupogprac.com.br/)
 - [Actuar](https://actuar.com)
 - [Trei.no](http://trei.no/)
-- [Conexão](http://conexaoproweb.com.br/site/)
+- [Conexão](https://conexaopro.com.br/site/)
 - [AFIG](https://afig.actuar.com/)
 - [APCAM](http://conexaoproweb.com.br/apcam/)
 - [Clínica Supere](http://supereador.com.br/Home)
