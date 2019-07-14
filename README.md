@@ -60,7 +60,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 > Participação em reuniões com a equipe e na coleta de requisitos.
 
-**Estágio de Implantação/Treinamento** - [SAGE (Multinacional de Softwares ERP)](http://www.sage.com/) / Maio 2016 - Agosto 2016
+**Estágio de Implantação/Treinamento** - [SAGE (Multinacional de Softwares ERP)](http://www.sage.com/) / 25/01/2016 à 03/10/2016 (10 meses)
 
 > Realizar o treinamento e capacitação de usuários para utilização do software.
 
