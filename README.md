@@ -37,34 +37,39 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 ## Experiência
 
-**Desenvolvedor Front-End** - Abril 2018 - Presente [Daxplace - Development](https://daxplace.com/)
+**UX Designer / Desenvolvedor Front-End** - Freelancer / Janeiro 2016 - Presente (4 anos)
+
+> Desenvolvimento de layouts do sites utilizando ferramentas: Adobe Photoshop e Adobe Illustrator.
+
+> Desenvolvimento de sites utilizando HTML, CSS e JS para o frontend e PHP e MySQL para o backend.
+
+**Desenvolvedor Front-End** - 23/04/2018 - Presente [Daxplace - Development](https://daxplace.com/) (1 ano e 3 meses)
 
 > Desenvolvimento de Aplicações utilizando: Laravel, VUEJS e Wordpress.
 
-**Desenvolvedor Front-End** - Janeiro 2018 - Abril 2018 [Conexão - Soluções Corporativas](http://conexaoproweb.com.br/site/)
+**Desenvolvedor Front-End** - 03/01/2018 - 22/04/2018 [Conexão - Soluções Corporativas](http://conexaoproweb.com.br/site/) (4 meses)
 
 > Desenvolvimento de sites utilizando as tecnologias: CodeIgniter, HTML5, CSS3, JS e JQuery.
 
-**Web Designer** - Freelancer / Agosto 2017 - Presente
-
-> Desenvolvimento de layouts do sites utilizando ferramentas: Adobe Photoshop e Adobe Illustrator.
-> Desenvolvimento de sites utilizando HTML, CSS e JS para o frontend e PHP e MySQL para o backend.
-
-**Web Designer, Desenvolvedor Front-End e Suporte TI** - [Actuar - Software para Academia](https://actuar.com) / Janeiro 2017 - Outubro 2017
+**Web Designer, Desenvolvedor Front-End e Suporte TI** - [Actuar - Software para Academia](https://actuar.com) / 25/01/2017 - 23/12/2017 (1 ano)
 
 > Eu atuei em várias frentes, desde elaboração de e-mail marketing, configurações do google adwords, criação e manutenção dos sites e das aplicações web e realizava o atendimento ao cliente nas redes sociais.
 
-**Estágio de Desenvolvedor Front-End** - [Crosoften(Soluções Ágeis, Qualidade Extrema)](https://crosoften.com/) / Julho 2016 - Dezembro 2016
+**Estágio de Desenvolvedor Front-End** - [Crosoften(Soluções Ágeis, Qualidade Extrema)](https://crosoften.com/) / 21/10/2016 - 28/12/2016 (3 meses).
 
 > Auxiliava no Densenvolvimento Front-End das aplicações.
 
 > Participação em reuniões com a equipe e na coleta de requisitos.
 
-**Estágio de Implantação/Treinamento** - [SAGE (Multinacional de Softwares ERP)](http://www.sage.com/) / 25/01/2016 à 03/10/2016 (10 meses)
+**Estágio de Implantação/Treinamento** - [SAGE (Multinacional de Softwares ERP)](http://www.sage.com/) / 25/01/2016 - 03/10/2016 (10 meses)
 
 > Realizar o treinamento e capacitação de usuários para utilização do software.
 
 > Responsável por fazer a instalação, manutenção e configuração dos softwares nas máquinas dos usuários.
+
+**Operador de Supermecado** - [Pão de Açúcar)](https://www.paodeacucar.com/) / 25/01/2015 à 03/12/2015 (1 ano)
+
+> Executar tarefas operacionais em um supermercado, assim como conferir e repor mercadorias, ajudar a transportar os produtos do depósito para área de vendas. Observar prazos de validade e efetuar a troca dos produtos. Executar outras atividades correlatas.
 
 ## Formação
 
@@ -78,6 +83,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 - [Realtrade Club](http://realtradeclub.com/dev)
 - [Plaico](https://plaico.com/)
 - [Danwealth](https://danwealth.com/dev/)
+- [Bird ID](https://www.birdid.com.br)
 - [InfoTech Goianesia](https://infotechgoianesia.com.br)
 - [CromaWeb](https://cromaweb.com.br/)
 - [Grupo Gprac](https://grupogprac.com.br/)
