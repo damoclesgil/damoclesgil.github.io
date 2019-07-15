@@ -21,6 +21,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 - Design (Adobe Illustrator, Adobe Photoshop, Adobe XD e CorelDRAW)
 - HTML5
 - PHP
+- Node
 - CSS3 (Sass)
 - CSS Frameworks (Bootstrap, Bulma e Materialize)
 - SVG (Animações)
