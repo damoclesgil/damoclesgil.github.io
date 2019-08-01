@@ -42,7 +42,7 @@ Passo meu tempo livre acompanhando a comunidade open source ou estudando, saindo
 
 **UX Designer / Desenvolvedor Front-End** - Freelancer | Janeiro 2016 - Presente (4 anos)
 
-> Desenvolvimento de layouts do sites utilizando ferramentas: Adobe Photoshop e Adobe Illustrator.
+> Desenvolvimento de layouts do sites utilizando ferramentas: Adobe XD, Adobe Photoshop e Adobe Illustrator.
 
 > Desenvolvimento de sites utilizando HTML, CSS e JS para o frontend e PHP e MySQL para o backend.
 
